@@ -1,5 +1,4 @@
--- Select the target database
-USE alx_book_store;
+
 
 -- Retrieve full column details for the 'Books' table
 SELECT COLUMN_NAME, COLUMN_TYPE, IS_NULLABLE, COLUMN_KEY, EXTRA
